@@ -1,61 +1,198 @@
 {
-	"name":"PDBLogo", 
-	"description":"",  
-	"icons":
-		[
-			{"name":"Av_1pondo", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_1pondo.png"},
-			{"name":"AV_s1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/AV_s1.png"},
-			{"name":"Av_PRESTIGE", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_PRESTIGE.png"},
-			{"name":"Av_adn", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_adn.png"},
-			{"name":"Av_dahlia", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_dahlia.png"},
-			{"name":"Av_dahlia_1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_dahlia_1.png"},
-			{"name":"Av_dass", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_dass.png"},
-			{"name":"Av_ebody", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_ebody.png"},
-			{"name":"Av_faleno", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_faleno.png"},
-			{"name":"Av_falenotube", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_falenotube.png"},
-			{"name":"Av_fitch", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_fitch.png"},
-			{"name":"Av_hmn", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_hmn.png"},
-			{"name":"Av_hunter", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_hunter.png"},
-			{"name":"Av_ideapocket", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_ideapocket.png"},
-			{"name":"Av_kawaii", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_kawaii.png"},
-			{"name":"Av_madonna", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_madonna.png"},
-			{"name":"Av_marlomedia", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_marlomedia.png"},
-			{"name":"Av_mfyd", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_mfyd.png"},
-			{"name":"Av_mird", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_mird.png"},
-			{"name":"Av_moodyz", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_moodyz.png"},
-			{"name":"Av_moodyz_miab", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_moodyz_miab.png"},
-			{"name":"Av_moodyz_mird", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_moodyz_mird.png"},
-			{"name":"Av_moodyz_mngs", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_moodyz_mngs.png"},
-			{"name":"Av_ofsd", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_ofsd.png"},
-			{"name":"Av_oppai", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_oppai.png"},
-			{"name":"Av_premium_beauty", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_premium_beauty.png"},
-			{"name":"Av_sod", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_sod.png"},
-			{"name":"Av_wanz", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Av_wanz.png"},
-			{"name":"Fanza", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Fanza.png"},
-			{"name":"Fc2", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Fc2.png"},
-			{"name":"Fc2_1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Fc2_1.png"},
-			{"name":"Heyzo", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Heyzo.png"},
-			{"name":"Jable1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Jable1.png"},
-			{"name":"Jable2", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Jable2.png"},
-			{"name":"Jable3", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Jable3.png"},
-			{"name":"Javdb", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Javdb.png"},
-			{"name":"Javdb_1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Javdb_1.png"},
-			{"name":"Missav", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Missav.png"},
-			{"name":"Missav_1", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Missav_1.png"},
-			{"name":"Onlyfans", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Onlyfans.png"},
-			{"name":"Porn_Javday", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Porn_Javday.png"},
-			{"name":"Porn_Javrate", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Porn_Javrate.png"},
-			{"name":"Supjav", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/Supjav.png"},
-			{"name":"BLACKED", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/BLACKED.png"},
-			{"name":"BLACKEDRAW", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/BLACKEDRAW.png"},
-			{"name":"VIXEN", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/VIXEN.png"},
-			{"name":"DEEPER", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/DEEPER.png"},
-			{"name":"TUSHY", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/TUSHY.png"},
-			{"name":"TUSHYRAW", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/TUSHYRAW.png"},
-			{"name":"MILFY", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/MILFY.png"},
-			{"name":"WIFEY", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/WIFEY.png"},
-			{"name":"PRIVATE", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/PRIVATE.png"},
-			{"name":"SEXART", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/SEXART.png"},
-			{"name":"PRESTIGE", "url":"https://raw.githubusercontent.com/PDBPack/ICONS/main/Logo/PRESTIGE.png"}
-		]
+  "name": "PDBLogo",
+  "description": "AV \u5382\u5546 Logo \u56fe\u6807\u5e93 (\u955c\u50cf\u81ea PDBPack/ICONS)",
+  "icons": [
+    {
+      "name": "Av_1pondo",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_1pondo.png"
+    },
+    {
+      "name": "AV_s1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/AV_s1.png"
+    },
+    {
+      "name": "Av_PRESTIGE",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_PRESTIGE.png"
+    },
+    {
+      "name": "Av_adn",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_adn.png"
+    },
+    {
+      "name": "Av_dahlia",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_dahlia.png"
+    },
+    {
+      "name": "Av_dahlia_1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_dahlia_1.png"
+    },
+    {
+      "name": "Av_dass",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_dass.png"
+    },
+    {
+      "name": "Av_ebody",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_ebody.png"
+    },
+    {
+      "name": "Av_faleno",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_faleno.png"
+    },
+    {
+      "name": "Av_falenotube",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_falenotube.png"
+    },
+    {
+      "name": "Av_fitch",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_fitch.png"
+    },
+    {
+      "name": "Av_hmn",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_hmn.png"
+    },
+    {
+      "name": "Av_hunter",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_hunter.png"
+    },
+    {
+      "name": "Av_ideapocket",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_ideapocket.png"
+    },
+    {
+      "name": "Av_kawaii",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_kawaii.png"
+    },
+    {
+      "name": "Av_madonna",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_madonna.png"
+    },
+    {
+      "name": "Av_marlomedia",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_marlomedia.png"
+    },
+    {
+      "name": "Av_mfyd",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_mfyd.png"
+    },
+    {
+      "name": "Av_mird",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_mird.png"
+    },
+    {
+      "name": "Av_moodyz",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_moodyz.png"
+    },
+    {
+      "name": "Av_moodyz_miab",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_moodyz_miab.png"
+    },
+    {
+      "name": "Av_moodyz_mird",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_moodyz_mird.png"
+    },
+    {
+      "name": "Av_moodyz_mngs",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_moodyz_mngs.png"
+    },
+    {
+      "name": "Av_ofsd",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_ofsd.png"
+    },
+    {
+      "name": "Av_oppai",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_oppai.png"
+    },
+    {
+      "name": "Av_premium_beauty",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_premium_beauty.png"
+    },
+    {
+      "name": "Av_sod",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_sod.png"
+    },
+    {
+      "name": "Av_wanz",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Av_wanz.png"
+    },
+    {
+      "name": "Fc2_1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Fc2_1.png"
+    },
+    {
+      "name": "Jable1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Jable1.png"
+    },
+    {
+      "name": "Javdb",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Javdb.png"
+    },
+    {
+      "name": "Javdb_1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Javdb_1.png"
+    },
+    {
+      "name": "Missav",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Missav.png"
+    },
+    {
+      "name": "Missav_1",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Missav_1.png"
+    },
+    {
+      "name": "Porn_Javday",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Porn_Javday.png"
+    },
+    {
+      "name": "Porn_Javrate",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Porn_Javrate.png"
+    },
+    {
+      "name": "Supjav",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/Supjav.png"
+    },
+    {
+      "name": "BLACKED",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/BLACKED.png"
+    },
+    {
+      "name": "BLACKEDRAW",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/BLACKEDRAW.png"
+    },
+    {
+      "name": "VIXEN",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/VIXEN.png"
+    },
+    {
+      "name": "DEEPER",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/DEEPER.png"
+    },
+    {
+      "name": "TUSHY",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/TUSHY.png"
+    },
+    {
+      "name": "TUSHYRAW",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/TUSHYRAW.png"
+    },
+    {
+      "name": "MILFY",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/MILFY.png"
+    },
+    {
+      "name": "WIFEY",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/WIFEY.png"
+    },
+    {
+      "name": "PRIVATE",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/PRIVATE.png"
+    },
+    {
+      "name": "SEXART",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/SEXART.png"
+    },
+    {
+      "name": "PRESTIGE",
+      "url": "https://raw.githubusercontent.com/cyanbees/icons/main/Logo/PRESTIGE.png"
+    }
+  ]
 }
